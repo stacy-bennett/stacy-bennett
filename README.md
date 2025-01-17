@@ -12,7 +12,7 @@ I'm Stacy Bennett, a freelance data cleaning specialist with a unique background
 - I’m excited about freelance opportunities that let me work flexibly, whether from home or while enjoying the outdoors.
 
 ## 📂 Portfolio
-Check out my [projects](https://github.com/stacy-bennett/tab=repositories) to see my work in action, including cleaned datasets and documentation of my process.
+Check out my [projects](https://github.com/stacy-bennett?tab=repositories) to see my work in action, including cleaned datasets and documentation of my process.
 
 ## 🌍 Connect
 - **LinkedIn**: [Stacy Bennett](https://linkedin.com/in/sbennettanalyst)
