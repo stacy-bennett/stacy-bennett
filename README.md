@@ -4,7 +4,7 @@ I'm Stacy Bennett, a freelance data cleaning specialist passionate about turning
 
 - 🔍 **Focus Areas**: Data cleaning, Excel automation, and efficient data processing.
 - 📂 **Portfolio**: Check out my [projects]
-- 🌍 **Connect**: [Kaggle](https://kaggle.com/yourusername)
+- 🌍 **Connect**: [Kaggle](https://kaggle.com/stacybennett)
 
 ---
 🚀 Currently learning new data cleaning techniques and building my freelance portfolio.
