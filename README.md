@@ -12,11 +12,11 @@ I'm Stacy Bennett, a freelance data cleaning specialist with a unique background
 - I’m excited about freelance opportunities that let me work flexibly, whether from home or while enjoying the outdoors.
 
 ## 📂 Portfolio
-Check out my [projects](https://github.com/YourUsername?tab=repositories) to see my work in action, including cleaned datasets and documentation of my process.
+Check out my [projects](https://github.com/stacy-bennett/tab=repositories) to see my work in action, including cleaned datasets and documentation of my process.
 
 ## 🌍 Connect
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/sbennettanalyst)
-- **Kaggle**: [Your Kaggle](https://kaggle.com/stacybennett)
+- **LinkedIn**: [Stacy Bennett](https://linkedin.com/in/sbennettanalyst)
+- **Kaggle**: [Stacy Bennett](https://kaggle.com/stacybennett)
 
 ---
 🚀 *Currently building my portfolio and always learning new techniques to master the art of clean data.*
